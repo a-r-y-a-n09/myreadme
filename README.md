@@ -1,6 +1,6 @@
 #  Introduction
--##**NAME**ARYAN
--##**AGE**19
+- **NAME**:ARYAN
+- **AGE**:19
 
 ## Education: Double the Degree, Double the Struggle
 
